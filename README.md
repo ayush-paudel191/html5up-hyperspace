@@ -66,6 +66,8 @@ portfolio/
    # Right-click index.html → "Open with Live Server"
    ```
 
+   just adding something random.
+
 3. **View the site**
    - Navigate to `http://localhost:8000` (or the port shown)
 
